@@ -10,7 +10,7 @@
        }
 
        Gershwin.stanFooter = function () {
-           document.write("Copyright 1920 by the Deco Corp")
+           document.write("Copyright 1920 by the Deco Corp!")
        }
            
 
